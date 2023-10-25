@@ -91,8 +91,8 @@
         </a>
     </p>
     <br>
-    <h1>My Works: </h1>
-    <a href="https://travelscape-next.vercel.app/">
-    <a href="https://revupauto-lpmz.000webhostapp.com/client/clientpage.php">
+    <h3>My Works: </h3>
+    https://travelscape-next.vercel.app/
+    https://revupauto-lpmz.000webhostapp.com/client/clientpage.php
 
 
