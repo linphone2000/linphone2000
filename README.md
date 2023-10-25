@@ -92,10 +92,12 @@
     </p>
     <br>
     <h3>My Works: </h3>
+    <p>Travel Scape - property renting website</p>
     <a href="https://travelscape-next.vercel.app/">
-        <img src="./revupauto.png" alt="bootstrap" width="250" />
+        <img src="./travelscape.png" alt="bootstrap" width="250" />
     </a>
     <br>
+    <p>Rev Up Auto - E-Commerce website</p>
     <a href="https://revupauto-lpmz.000webhostapp.com/client/clientpage.php">
         <img src="./revupauto.png" alt="bootstrap" width="250" />
     </a>
