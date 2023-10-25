@@ -93,7 +93,9 @@
     <br>
     <h3>My Works: </h3>
     https://travelscape-next.vercel.app/
+    <img src="./travelscape" alt="bootstrap" width="40" width="40" />
     <br>
     https://revupauto-lpmz.000webhostapp.com/client/clientpage.php
+    <img src="./revupauto.png" alt="bootstrap" width="40" width="40" />
 
 
