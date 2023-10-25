@@ -59,7 +59,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg"
                 alt="nextjs" width="40" height="40" />
         </a>
-
         <!-- Basic Web -->
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -77,7 +76,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40" />
         </a>
-
         <!-- Others -->
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -92,7 +90,6 @@
                 alt="python" width="40" height="40" />
         </a>
     </p>
-
     <br>
 
 
