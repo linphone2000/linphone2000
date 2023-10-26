@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lin Phone Myint Zaw</h1>
-<h3 align="center">Student at Edinburgh Napier University🌟.</h3>
+<h1 align="center">Hi, I'm Lin Phone Myint Zaw</h1>
+<h3 align="center">Student at Edinburgh Napier University.</h3>
 
 <br>
 
