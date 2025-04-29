@@ -92,32 +92,53 @@
         </a>
     </p>
     <br>
-    <h3>My Works: </h3>
-    <p>Intelligent Home Surveillance System</p>
-    <a href="https://home-security-rho.vercel.app/">
-        <img src="./hs1.png" alt="Intelligent Home Surveillance System" width="250" />
-    </a>
-    <br>
-    <p>Pharmacy Management System (Inventory Management)</p>
-    <a href="https://pms-frontend-virid.vercel.app/">
-        <img src="./pms1.png" alt="Pharmacy Management System" width="250" />
-    </a>
-    <br>
-    <p>Hotel Booking Platform</p>
-    <a href="https://scape-booking.vercel.app/">
-        <img src="./sb1.png" alt="Hotel Booking Platform" width="250" />
-    </a>
-    <br>
-    <p>Travel Scape - peer-to-peer Rental Platform</p>
-    <a href="https://travelscape-next.vercel.app/">
-        <img src="./travelscape.png" alt="RevUpAuto" width="250" />
-    </a>
-    <br>
-    <br>
-    <p>Rev Up Auto - E-Commerce website</p>
-    <a href="#">
-        <img src="./revupauto.png" alt="bootstrap" width="250" />
-    </a>
+    <h3 align="center">My Projects</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <a href="https://home-security-rho.vercel.app/">
+          <img src="./hs1.png" alt="Intelligent Home Surveillance System" width="250" />
+          <br />
+          <b>Intelligent Home Surveillance System</b>
+        </a>
+      </td>
+      <td align="center" width="300">
+        <a href="https://pms-frontend-virid.vercel.app/">
+          <img src="./pms1.png" alt="Pharmacy Management System" width="250" />
+          <br />
+          <b>Pharmacy Management System</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="300">
+        <a href="https://scape-booking.vercel.app/">
+          <img src="./sb1.png" alt="Hotel Booking Platform" width="250" />
+          <br />
+          <b>Hotel Booking Platform</b>
+        </a>
+      </td>
+      <td align="center" width="300">
+        <a href="https://travelscape-next.vercel.app/">
+          <img src="./travelscape.png" alt="Travel Scape" width="250" />
+          <br />
+          <b>Travel Scape - Rental Platform</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="300">
+        <a href="#">
+          <img src="./revupauto.png" alt="Rev Up Auto" width="250" />
+          <br />
+          <b>Rev Up Auto - E-Commerce</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
