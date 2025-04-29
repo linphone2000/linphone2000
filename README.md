@@ -47,11 +47,11 @@
 
 | Project | Description | Demo | Screenshot |
 |---------|------------|------|------------|
-| **Intelligent Home Surveillance System** | AI-powered security with facial recognition | [Live Demo](https://home-security-rho.vercel.app/) | <img src="./hs1.png" width="150"> |
+| **Intelligent Home Surveillance System** | AI-powered security with facial recognition and object detection | [Live Demo](https://home-security-rho.vercel.app/) | <img src="./hs1.png" width="150"> |
 | **Pharmacy Management System** | Inventory management for pharmacies | [Live Demo](https://pms-frontend-virid.vercel.app/) | <img src="./pms1.png" width="150"> |
 | **Hotel Booking Platform** | Reservation system for hotels | [Live Demo](https://scape-booking.vercel.app/) | <img src="./sb1.png" width="150"> |
 | **Travel Scape - Rental Platform** | Peer-to-peer accommodation rental | [Live Demo](https://travelscape-next.vercel.app/) | <img src="./travelscape.png" width="150"> |
-| **Rev Up Auto - E-Commerce** | Automotive parts marketplace | Coming Soon | <img src="./revupauto.png" width="150"> |
+| **Rev Up Auto - E-Commerce** | Automotive marketplace | Coming Soon | <img src="./revupauto.png" width="150"> |
 
 ---
 
