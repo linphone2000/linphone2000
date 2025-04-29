@@ -63,7 +63,7 @@
   <a href="https://www.facebook.com/linphone.myintzaw" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://www.instagram.com/linphonemyintzaw" target="_blank">
+  <a href="https://www.instagram.com/linphonemyintzaw/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:linphonem@gmail.com" target="_blank">
