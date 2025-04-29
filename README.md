@@ -93,14 +93,29 @@
     </p>
     <br>
     <h3>My Works: </h3>
-    <p>Travel Scape - property renting website</p>
+    <p>Intelligent Home Surveillance System</p>
+    <a href="https://home-security-rho.vercel.app/">
+        <img src="./travelscape.png" alt="bootstrap" width="250" />
+    </a>
+    <br>
+    <p>Pharmacy Management System (Inventory Management)</p>
+    <a href="https://pms-frontend-virid.vercel.app/">
+        <img src="./travelscape.png" alt="bootstrap" width="250" />
+    </a>
+    <br>
+    <p>Hotel Booking Platform</p>
+    <a href="https://scape-booking.vercel.app/">
+        <img src="./travelscape.png" alt="bootstrap" width="250" />
+    </a>
+    <br>
+    <p>Travel Scape - peer-to-peer Rental Platform</p>
     <a href="https://travelscape-next.vercel.app/">
         <img src="./travelscape.png" alt="bootstrap" width="250" />
     </a>
     <br>
     <br>
     <p>Rev Up Auto - E-Commerce website</p>
-    <a href="https://revupauto.000webhostapp.com/client/clientpage.php">
+    <a href="#">
         <img src="./revupauto.png" alt="bootstrap" width="250" />
     </a>
 
