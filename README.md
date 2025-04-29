@@ -92,7 +92,7 @@
         </a>
     </p>
     <br>
-    <h3 align="center">My Projects</h3>
+    <h3 align="left">My Projects</h3>
 
 | Project | Demo | Screenshot |
 |---------|------|------------|
