@@ -94,50 +94,41 @@
     <br>
     <h3 align="center">My Projects</h3>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <a href="https://home-security-rho.vercel.app/">
-          <img src="./hs1.png" alt="Intelligent Home Surveillance System" width="250" />
-          <br />
-          <b>Intelligent Home Surveillance System</b>
-        </a>
-      </td>
-      <td align="center" width="300">
-        <a href="https://pms-frontend-virid.vercel.app/">
-          <img src="./pms1.png" alt="Pharmacy Management System" width="250" />
-          <br />
-          <b>Pharmacy Management System</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="300">
-        <a href="https://scape-booking.vercel.app/">
-          <img src="./sb1.png" alt="Hotel Booking Platform" width="250" />
-          <br />
-          <b>Hotel Booking Platform</b>
-        </a>
-      </td>
-      <td align="center" width="300">
-        <a href="https://travelscape-next.vercel.app/">
-          <img src="./travelscape.png" alt="Travel Scape" width="250" />
-          <br />
-          <b>Travel Scape - Rental Platform</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="300">
-        <a href="#">
-          <img src="./revupauto.png" alt="Rev Up Auto" width="250" />
-          <br />
-          <b>Rev Up Auto - E-Commerce</b>
-        </a>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="width: 280px;">
+    <a href="https://home-security-rho.vercel.app/">
+      <img src="./hs1.png" alt="Intelligent Home Surveillance System" width="100%" />
+      <p align="center"><b>Intelligent Home Surveillance System</b></p>
+    </a>
+  </div>
+  
+  <div style="width: 280px;">
+    <a href="https://pms-frontend-virid.vercel.app/">
+      <img src="./pms1.png" alt="Pharmacy Management System" width="100%" />
+      <p align="center"><b>Pharmacy Management System</b></p>
+    </a>
+  </div>
+  
+  <div style="width: 280px;">
+    <a href="https://scape-booking.vercel.app/">
+      <img src="./sb1.png" alt="Hotel Booking Platform" width="100%" />
+      <p align="center"><b>Hotel Booking Platform</b></p>
+    </a>
+  </div>
+  
+  <div style="width: 280px;">
+    <a href="https://travelscape-next.vercel.app/">
+      <img src="./travelscape.png" alt="Travel Scape" width="100%" />
+      <p align="center"><b>Travel Scape - Rental Platform</b></p>
+    </a>
+  </div>
+  
+  <div style="width: 280px;">
+    <a href="#">
+      <img src="./revupauto.png" alt="Rev Up Auto" width="100%" />
+      <p align="center"><b>Rev Up Auto - E-Commerce</b></p>
+    </a>
+  </div>
 </div>
 
 
