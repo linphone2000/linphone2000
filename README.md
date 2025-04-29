@@ -1,6 +1,6 @@
 # <div align="center">👋 Hi, I'm Lin Phone Myint Zaw</div>
 <div align="center">
-  <h3>Computer Science Student at Edinburgh Napier University</h3>
+  <h3>Computer Science Graduate from Edinburgh Napier University</h3>
   <p>Passionate Full-Stack Developer with AI/ML Experience</p>
 </div>
 
@@ -36,7 +36,6 @@
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 
