@@ -1,5 +1,6 @@
 # <div align="center">👋 Hi, I'm Lin Phone Myint Zaw</div>
 <div align="center">
+  <h2>Junior Developer | React Native Developer</h2>
   <h3>Computer Science Graduate from Edinburgh Napier University</h3>
   <p>Passionate Full-Stack Developer with AI/ML Experience</p>
 </div>
