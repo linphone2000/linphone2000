@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h2>Backend Lead | Full-Stack Developer | React Native Developer</h2>
+  <h2>Full-Stack Developer | React Native Developer</h2>
 
   <h3>BSc (Hons) Computing – Distinction | Edinburgh Napier University</h3>
 
