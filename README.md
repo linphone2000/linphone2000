@@ -1,12 +1,12 @@
 # <div align="center">👋 Hi, I'm Lin Phone Myint Zaw</div>
 <div align="center">
-  <h2>Junior Developer | React Native Developer</h2>
-  <h3>Computer Science Graduate from Edinburgh Napier University</h3>
+  <h2>Full Stack Developer | React Native Developer</h2>
+  <h3>Graduate from Edinburgh Napier University</h3>
   <p>Passionate Full-Stack Developer with AI/ML Experience</p>
 </div>
 
 <p align="center">
-  <a href="https://lpmz-portfolio.vercel.app/">Portfolio</a> •
+  <a href="https://www.linphone.site/">Portfolio</a> •
   <a href="mailto:linphonem@gmail.com">Email</a> •
   <a href="www.linkedin.com/in/lin-phone-myint-zaw-025082176">LinkedIn</a> •
 </p>
