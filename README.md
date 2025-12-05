@@ -97,8 +97,11 @@ Leading backend architecture for EdTech platform, managing cross-functional team
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=linphone2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linphone2000&layout=compact&langs_count=8&theme=tokyonight"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linphone2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linphone2000&layout=compact&langs_count=8&theme=tokyonight)
+
 </div>
 
 ---
