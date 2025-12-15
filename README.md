@@ -24,7 +24,7 @@
 
 ## 💼 Current Role
 
-**Backend Lead / Technical Project Manager** at **Technortal (Freelance Client)** (Oct 2025 – Present)
+**Core Backend Developer / Technical Project Coordinator** at **Technortal (Freelance Client)** (Oct 2025 – Present)
 
 Leading backend architecture for EdTech platform, managing cross-functional teams, and implementing CI/CD pipelines with Node.js, Express.js, and PostgreSQL.
 
