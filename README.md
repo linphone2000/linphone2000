@@ -2,16 +2,23 @@
 
 <div align="center">
 
-  <h2>Full-Stack Developer | React Native Developer</h2>
+  <h2>Mobile-Focused Full-Stack Developer</h2>
 
-  <h3>BSc (Hons) Computing – Distinction | Edinburgh Napier University</h3>
+  <p>
+    Building scalable mobile and web applications with React Native, Node.js, Nest.js, and PostgreSQL
+  </p>
 
-  <p>Building mobile-first experiences with strong API and data modeling foundations</p>
+  <p>
+    3+ Years Experience • React Native • Expo • TypeScript • Node.js • Nest.js
+  </p>
 
 </div>
 
 <p align="center">
-  <a href="https://www.linphone.site/">Portfolio</a> • <a href="mailto:linphonem@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/lin-phone-myint-zaw-025082176/">LinkedIn</a> • <a href="https://github.com/linphone2000">GitHub</a>
+  <a href="https://www.linphone.site/">Portfolio</a> •
+  <a href="mailto:linphonem@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/lin-phone-myint-zaw-025082176/">LinkedIn</a> •
+  <a href="https://github.com/linphone2000">GitHub</a>
 </p>
 
 <div align="center">
@@ -24,9 +31,9 @@
 
 ## 💼 Current Role
 
-**Core Backend Developer / Technical Project Coordinator** at **Technortal (Freelance Client)** (Oct 2025 – Present)
+**Mobile Developer (Mid–Senior Level)** at **Smilax Global Co., Ltd** (May 2026 – Present)
 
-Leading backend architecture for EdTech platform, managing cross-functional teams, and implementing CI/CD pipelines with Node.js, Express.js, and PostgreSQL.
+Developing mobile applications and Nest.js microservices for SSHR, a self-service human resource management platform.
 
 ---
 
@@ -52,13 +59,15 @@ Leading backend architecture for EdTech platform, managing cross-functional team
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ### AI/ML & Computer Vision
 
-![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-FF6F00?logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
 ### Tools & Technologies
@@ -67,21 +76,20 @@ Leading backend architecture for EdTech platform, managing cross-functional team
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=githubactions&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<h3 align="center">My Projects</h3>
-
-| Project                                  | Description                                                                                                              | Tech Stack                         | Demo                                                |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------- | --------------------------------------------------- |
-| **PropertyApp**                          | Advanced property trading & investment dashboard with real-time P&L tracking, portfolio analytics, and market simulation | React Native, TypeScript, Zustand  | Mobile App                                          |
-| **Intelligent Home Surveillance System** | AI-powered security system with facial recognition, object detection, and email alerts                                   | Next.js, TensorFlow.js, FaceAPI.js | [Live Demo](https://home-security-rho.vercel.app/)  |
-| **Pharmacy Management System**           | Full-stack inventory management system with real-time stock tracking and team collaboration                              | MERN Stack, Agile                  | [Live Demo](https://pms-frontend-virid.vercel.app/) |
-| **Hotel Booking Platform**               | Responsive booking platform with room/hotel management and admin portal                                                  | Flask, React.js                    | [Live Demo](https://scape-booking.vercel.app/)      |
-| **Travel Scape**                         | Peer-to-peer rental platform with advanced filtering and Cloudinary media storage                                        | Next.js, Cloudinary                | [Live Demo](https://travelscape-next.vercel.app/)   |
-| **Minty**                                | Personal finance management app with expense tracking and multi-account management                                       | React Native, Express.js, JWT      | In Development                                      |
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| **SSHR** | Self-service human resource management platform with mobile applications and backend microservices | React Native, Nest.js |
+| **SchoolFlow** | School management platform for students, parents, teachers, and administrators | React Native, Node.js, PostgreSQL |
+| **Mobile First POS** | Cross-platform POS system designed for retail businesses | React Native Expo, Nest.js |
+| **Yoyic** | E-commerce platform with mobile application, backend services, and CI/CD pipelines | React Native, Express.js |
+| **Technortal** | EdTech platform featuring authentication, enrollment, community, and payment systems | Express.js, PostgreSQL |
 
 ---
 
@@ -89,12 +97,19 @@ Leading backend architecture for EdTech platform, managing cross-functional team
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lin-phone-myint-zaw-025082176/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linphonem@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lin-phone-myint-zaw-025082176/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linphonem@gmail.com)
 
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=linphone2000&color=blueviolet&style=flat-square" alt="Profile views" />
+
+Building production-ready mobile and backend systems with a focus on scalability, maintainability, and user experience.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=linphone2000&color=blueviolet&style=flat-square" alt="Profile views" />
+
 </div>
