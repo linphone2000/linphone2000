@@ -2,20 +2,20 @@
 
 **Senior Full-Stack Developer · Technical Lead**
 
-I build mobile and web applications and the services that power them. My work spans React Native and Next.js apps, Node.js APIs, event-driven microservices, and production deployments.
+I ship React Native and Next.js applications, build Node.js APIs and Kafka-backed services, and run deployments in production.
 
 [Portfolio](https://lpmz-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lin-phone-myint-zaw-025082176/)
 
-## Current roles
-
-- **Senior Developer at Smilax Global Co., Ltd** · May 2026–present. I build React Native features for SSHR, a self-service HR platform, and own the architecture for its NestJS microservices. I also work on Kafka integrations, database operations, Ubuntu deployments, and code review.
-- **Technical Lead at Empire Digital Solution** · April 2023–present. I lead a team building and maintaining mobile, web, and backend systems for education and retail.
-
 ## Selected projects
 
-- **Perfume Tower.** Built a fragrance commerce platform with an Expo mobile app, a Next.js storefront, an Express backend, and automated production deployments.
-- **SchoolFlow.** Built the school management mobile app and maintain its web, mobile, and backend systems. It supports attendance, assignments, payments, chat, and role-based dashboards.
-- **Technortal.** Built the Express and PostgreSQL backend for an education platform, including authentication, course enrollment, forums, and payments.
+- **[Perfume Tower](https://lpmz-portfolio.vercel.app/portfolio/perfume-tower-web)** — Built an Expo shopping app, a Next.js storefront, and an Express backend. Automated production deployments. [Live storefront](https://perfume-tower.shop/)
+- **[SchoolFlow](https://lpmz-portfolio.vercel.app/portfolio/schoolflow)** — Built the mobile app for attendance, assignments, fee payments, and messaging. I maintain the web, mobile, and backend systems. [App Store](https://apps.apple.com/mm/app/schoolflow-app/id6771805767)
+- **[Technortal](https://lpmz-portfolio.vercel.app/portfolio/technortal)** — Built the Express and PostgreSQL backend for authentication, course enrollment, forums, and payments.
+
+## Current roles
+
+- **Senior Developer at Smilax Global Co., Ltd** · May 2026–present. I build React Native features for SSHR, a self-service HR platform, and own its NestJS microservice architecture. My work includes Kafka integrations, database operations, Ubuntu deployments, and code review.
+- **Technical Lead at Empire Digital Solution** · April 2023–present. I lead a team building and maintaining mobile, web, and backend systems for education and retail.
 
 ## Technology and workflow
 
